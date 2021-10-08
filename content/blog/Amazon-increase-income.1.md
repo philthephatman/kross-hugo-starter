@@ -1,8 +1,7 @@
 ---
-title: Embed Video
-date: 2019-05-12T12:14:34.000+06:00
+title: Reproductive Toxicity of Vaccines
+date: 
 image: ''
 description: ''
 
 ---
-[![](/images/maxresdefault.jpg)](https://odysee.com/@DarkHorsePodcastClips:b/informed-consent-and-reproductive:e "Reproductive toxicity of vaccines")
