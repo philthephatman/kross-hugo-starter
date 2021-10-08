@@ -5,16 +5,16 @@ fields:
 - type: text
   name: title
   label: title
-  hidden: true
+  hidden: false
 - type: datetime
   name: date
   label: date
-  hidden: true
+  hidden: false
 - type: file
   name: image
   label: image
-  hidden: true
+  hidden: false
 - type: text
   name: description
   label: description
-  hidden: true
+  hidden: false
