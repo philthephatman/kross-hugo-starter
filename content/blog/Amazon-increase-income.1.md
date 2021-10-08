@@ -1,7 +1,7 @@
 ---
 title: Reproductive Toxicity of Vaccines
 date: 
-image: ''
+image: "/images/about/signature.png"
 description: ''
 
 ---
