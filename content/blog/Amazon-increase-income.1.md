@@ -7,4 +7,4 @@ description: ''
 ---
 [![](/images/reproductive_toxicity.png)](https://odysee.com/@DarkHorsePodcastClips:b/informed-consent-and-reproductive:e{:target="_blank"} "Reproductive Toxicity of the Vaccines")
 
-[Reproductive Toxicity](https://odysee.com/@DarkHorsePodcastClips:b/informed-consent-and-reproductive:e{:target="_blank"} "Reproductive Toxicity of the Vaccine")
+[Reproductive Toxicity](https://odysee.com/@DarkHorsePodcastClips:b/informed-consent-and-reproductive:e{:target="https://odysee.com/@DarkHorsePodcastClips:b/informed-consent-and-reproductive:e"} "Reproductive Toxicity of the Vaccine")
